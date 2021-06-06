@@ -1,8 +1,8 @@
-# (Application Name)
+# bike-index
 
-#### (Brief Description of Application)
+#### Building an app using the Bike Index API.
 
-## Created by [@nicckaufman](https://www.github.com/niccikaufman)
+## Created by [@niccikaufman](https://www.github.com/niccikaufman)
 
 ## Technologies used
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -16,13 +16,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/niccikaufman/REPOSITORY.git
+  git clone https://github.com/niccikaufman/bike-index.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd DIRECTORY
+  cd bike-index
 ```
 
 Install dependencies
