@@ -1,7 +1,7 @@
 {
-  "name": "APPLICATION NAME",
+  "name": "bike-index",
   "version": "1.0.0",
-  "description": "### DESCRIPTION",
+  "description": "### Building an app using the Bike Index API.",
   "main": "main.js",
   "scripts": {
     "build": "webpack --mode development",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niccikaufman/REPOSITORY.git"
+    "url": "git+https://github.com/niccikaufman/bike-index.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/niccikaufman/REPOSITORY/issues"
+    "url": "https://github.com/niccikaufman/bike-index/issues"
   },
-  "homepage": "https://github.com/niccikaufman/REPOSITORY#readme",
+  "homepage": "https://github.com/niccikaufman/bike-index#readme",
   "devDependencies": {
     "clean-webpack-plugin": "3.0.0",
     "css-loader": "3.2.0",
