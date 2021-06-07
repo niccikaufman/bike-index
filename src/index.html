@@ -9,11 +9,12 @@
 <body>
   <div class="container">
     <label for="location">Enter your zip code:</label>
-    <input type="text" id="location">
+    <input type="text" id="location" required>
+    <label for="proximity">Choose your proximity (in miles):</label>
+    <input type="text" id="proximity" required>
     <button type="submit" id="userLocation">Submit</button>
     <section id="results"></section>
     <section id="proximity-results"></section>
-
   </div>
 </body>
 </html>
