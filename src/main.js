@@ -19,7 +19,8 @@ $(document).ready(function() {
     request.send();
     
     function getElements(response){
-      console.log(response);
+      let total = response.stolen + response.non;
+      $("#results").append(`There are currently ${total} registered bikes in your area, ${response.stolen} of which have been declared stolen.`);
     }
   });
 });
